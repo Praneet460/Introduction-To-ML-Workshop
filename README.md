@@ -1,5 +1,5 @@
 # Introduction-To-ML-Workshop
-Machine Learning Workshop at IPEC
+Machine Learning Workshop
 
 #### Slides
 
